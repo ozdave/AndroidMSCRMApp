@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">CRMApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="crm_login_demo">CRM Login Demo</string><string name="title_login_hello_app">WebAPI Login</string>
+    
+
+</resources>
